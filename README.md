@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td width="65%">
-I'm a beginner developer exploring **Python, C, HTML, CSS, JavaScript**, and also love **designing with Canva and Figma**.  
+I'm a beginner developer exploring *Python, C, HTML, CSS, JavaScript*, and also love *designing with Canva and Figma*.  
 Passionate about building small projects, improving skills, and learning something new every day! ✨
 </td>
 <td width="35%">
