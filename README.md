@@ -12,8 +12,7 @@
 <tr>
 <td width="75%">
 A dreamer,coder,and caffeine enthusiast☕💻<br>
-Just starting my journey in CSE @IIIT Sri City🚀✨<br>
-Here to learn,create,and vibe with cool projects 💡
+Here to learn,create,and vibe with cool projects💡
 </td>
 <td width="35%">
 <img src="https://i.pinimg.com/736x/b4/94/37/b49437169e0878cb16a08a732a843d19.jpg" width="120" style="border-radius:10px;"/>
