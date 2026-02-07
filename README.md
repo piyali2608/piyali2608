@@ -52,24 +52,21 @@ Here to learn,create,and vibe with cool projects💡
 </td>
 </tr>
 </table>
- 📊 GitHub Stats & Top Languages
+ ### 📊 GitHub Stats & Top Languages
 
 <table>
 <tr>
+
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=piyali2608&show_icons=true&theme=dark&count_private=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=piyali2608&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
 </td>
+
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyali2608&layout=compact&theme=dark" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=piyali2608&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
 </td>
+
 </tr>
 </table>
-
-</td>
-</tr>
-</table>
-
----
 
 
 
