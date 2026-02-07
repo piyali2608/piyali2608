@@ -1,4 +1,5 @@
-# Hey there 👋, I'm Piyali Barman
+# Hey there 👋
+I'm Piyali Barman
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F7FFF&width=600&lines=Beginner+Developer+and+AIML+Enthusiast+%F0%9F%92%AB)
 
@@ -52,22 +53,21 @@ Here to learn,create,and vibe with cool projects💡
 </td>
 </tr>
 </table>
- ### 📊 GitHub Stats & Top Languages
+### 📊 GitHub Stats & Top Languages
 
 <table>
 <tr>
 
 <td width="50%">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=piyali2608&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
+<img src="https://stats-github-readme.vercel.app/api/top-langs/?username=piyali2608&layout=compact&theme=dark" />
 </td>
 
 <td width="50%">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=piyali2608&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+<img src="https://stats-github-readme.vercel.app/api?username=piyali2608&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </td>
 
 </tr>
 </table>
-
 
 
 *"Keep coding, keep growing!"*
