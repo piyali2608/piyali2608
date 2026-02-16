@@ -45,8 +45,8 @@ Here to learn,create,and vibe with cool projects💡
 <td valign="top" width="50%">
 
 ### 📫 Connect With Me
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyaaabarman@gmail.com)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyali.b25@iiits.in)
+[![Gmail(piyaaabarman@gmail.com](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyaaabarman@gmail.com)
+[![Gmail(piyali.b25@iiits.in)](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyali.b25@iiits.in)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyali-barman-424085381/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyali2608)
 
