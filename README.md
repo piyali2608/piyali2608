@@ -4,7 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F7FFF&width=600&lines=Beginner+Developer+and+AIML+Enthusiast+%F0%9F%92%AB)
 
 
- CSE Student at IIIT Sri City | Learning by building projects 🚀  
+ CSE Student at IIIT Sri City 👩‍🎓 | Learning by building projects 🚀  
 
 ---
 
