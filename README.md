@@ -79,6 +79,9 @@ Here to learn,create,and vibe with cool projects
 
 </tr>
 </table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyali2608&theme=tokyonight&hide_border=true" />
+</p>
 
 
 *"Keep coding, dreaming, building and growing!"*
