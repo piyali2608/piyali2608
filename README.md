@@ -63,15 +63,11 @@ Here to learn,create,and vibe with cool projects
 
 <table>
 <tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyali2608&show_icons=true&theme=tokyonight&hide_border=true" />
-</td>
+
 
 <td width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyali2608&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </td>
-</tr>
-</table>
 
 <td width="50%">
 <img src="https://stats-github-readme.vercel.app/api?username=piyali2608&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -82,7 +78,6 @@ Here to learn,create,and vibe with cool projects
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyali2608&theme=tokyonight&hide_border=true" />
 </p>
-
 
 
 *"Keep coding, dreaming, building and growing!"*
