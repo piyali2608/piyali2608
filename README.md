@@ -82,6 +82,9 @@ Here to learn,create,and vibe with cool projects
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyali2608&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piyali2608/piyali2608/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 
 *"Keep coding, dreaming, building and growing!"*
